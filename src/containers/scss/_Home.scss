@@ -1,0 +1,22 @@
+.home__header {
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 3px;
+    margin-bottom: 30px;
+}
+
+.form__section--upper {
+    margin-bottom: 20px;
+}
+
+.home__section--right {
+    font-size: 1.5rem;
+}
+
+.begin__btn,
+.submitBtn {
+    margin-left: 50%;
+    transform: translateX(-50%);
+    width: 150px;
+    height: 50px;
+}
